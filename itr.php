@@ -1,16 +1,12 @@
 <html>
-
-
-<!-- Mirrored from www.indiaonlineca.com/ca/itr by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jun 2023 13:21:55 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Online CA Services : India Online CA is India’s fastest growing online CA Services portal. We have started our operations in 2011. 
-        Our Aim is to help Entrepreneurs in easily start and grow their business, at an affordable cost.</title>
+    <title> ITRKARAO Services: India's Leading CA Services Platform</title>
    
     <link rel="canonical" href="../index.php">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -44,7 +40,7 @@
     <link rel="stylesheet" href="../static/plugins/summernote/summernote-bs4.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H9Y0ECTGKY"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -890,5 +886,5 @@ function openCity(cityName) {
 </body>
 
 
-<!-- Mirrored from www.indiaonlineca.com/ca/itr by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jun 2023 13:21:55 GMT -->
+
 </html>
