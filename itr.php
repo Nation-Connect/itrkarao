@@ -1,5 +1,5 @@
 <html>
-<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,47 +9,14 @@
     <title> ITRKARAO Services: India's Leading CA Services Platform</title>
    
     <link rel="canonical" href="../index.php">
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="description" content="India Online CA is India’s fastest growing online CA Services portal. We have started our operations in 2011. Our Aim is to help Entrepreneurs in easily start and grow their business, at an affordable cost.">
-    <meta name="keywords" content="best ca in bhopal,Rahu Jain, CA, best ca in india, top 10 ca in bhopal,top 100 ca in bhopal,top 10 ca in india,itr,gst,tax,chartered accountant,chartered accountant in bhopal.">
-    <meta name="robots" content="NOARCHIVE,NOCACHE">
-
-    <meta property="og:type" content="website">
-    <meta property="og:site_name" content="indiaonlineca">        
-    <meta property="og:url" content="../index.php">        
-    
-    <meta property="og:title" content="Online CA Services">
-    <meta property="og:description" content="India Online CA is India’s fastest growing online CA Services portal. We have started our operations in 2011. Our Aim is to help Entrepreneurs in easily start and grow their business, at an affordable cost.">
-    <meta property="og:image:type" content="image/jpeg">        
-    <meta property="og:image" itemprop="image" content="../static/mainstatic/img/logofoot.png">
-    <meta property="og:image:url" content="../static/mainstatic/img/logofoot.png">
-    <meta property="og:image:secure_url" content="../static/mainstatic/img/logofoot.png">
-    
-
-    <link rel="shortcut icon" href="../static/mainstatic/img/logofoot.png" type="image/x-icon">
-    <link rel="stylesheet" href="../static/mainstatic/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/fontawesome.min.css">
-    <link rel="stylesheet" href="../static/mainstatic/fonts/flaticon.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/animate.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/magnific-popup.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/style.css">
-    <link rel="stylesheet" href="../static/mainstatic/css/responsive.css">
-    <link rel="stylesheet" href="../../www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="../static/plugins/fontawesome-free/css/all.min.css">
-    <link rel="stylesheet" href="../static/plugins/summernote/summernote-bs4.css">
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-H9Y0ECTGKY');
-    </script>
+    <?php
+    include 'head.php';
+    ?>
 
 <body>
+
+
+
     <div id="tawkchat-status-text-container" class="theme-background-color theme-text-color"
         style="background-color:blue"><span id="maximizeChat" class="icon-mail appear" title="Maximize"></span><span
             id="minimizeChatMinifiedBtn" class="icon-close hide" title="Minimize"></span></div>
@@ -64,100 +31,10 @@
                 </div>
             </div>
         </div>
-        <div class="header-bottom" style=" background: white;">
-            <div class="container">
-                <div class="row justify-content-between">
-                    <div class="col-xl-3 col-lg-3 d-xl-flex d-lg-flex d-block align-items-center">
-                        <div class="row">
-                            <div class="col-xl-12 col-lg-12 col-7 d-xl-block d-lg-block d-flex align-items-center">
-                                <div class="logo-img">
-                                    <a href="../index.php"><img src="../static/mainstatic/img/logot.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="d-xl-none d-lg-none d-block col-5">
-                                <button class="navbar-toggler" type="button" data-toggle="collapse"
-                                    data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
-                                    aria-label="Toggle navigation">
-                                    <i class="fas fa-bars"></i>
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-8 col-lg-9 d-xl-flex d-lg-flex d-block align-items-center">
-                        <div class="mainmenu">
-                            <nav class="navbar navbar-expand-lg">
-                                <div class="navbar-header">
-                                </div>
-                                <div class="collapse navbar-collapse" id="navbarNav">
-                                    <ul class="navbar-nav">
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="../index.php">Home</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="about.php">About</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="#" id="navbarDropdown" role="button"
-                                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                                Services
-                                            </a>
-                                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                <ul class="navbar-nav">
-                                                    <li class="nav-item dropdown">
-                                                        <a class="dropdown-item" href="itr.html">Income Tax
-                                                            Filling</a>
-                                                        <a class="dropdown-item" href="tds.html"> TDS</a>
-                                                        <a class="dropdown-item" href="business.html">Business
-                                                            Registrations</a>
-                                                        <a class="dropdown-item" href="gst.html">GST Services</a>
-                                                        <a class="dropdown-item"
-                                                            href="trade-mark.html">Trademark</a>
-                                                        <a class="dropdown-item"
-                                                            href="digital-signature.html">Digital Signature</a>
-                                                    </li>
-                                                    <li class="nav-item dropdown">
-                                                        <a class="dropdown-item"
-                                                            href="import-export.html">Import-Export
-                                                            Registration</a>
-                                                        <a class="dropdown-item" href="fssai.html">FSSAI
-                                                            Registration</a>
-                                                        <a class="dropdown-item" href="msme.html"> MSME
-                                                            Registration</a>
-                                                        <a class="dropdown-item" href="trade-licence.html"> Trade
-                                                            License</a>
-                                                        <a class="dropdown-item" href="professional-tax.html">
-                                                            Professional Tax</a>
-                                                        <a class="dropdown-item" href="pf-esi.html"> PF/ESI
-                                                            Registration</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="contact.php">Contact</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="partnar.php">Be a Partner</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="blog/index.php">Blog</a>
-                                        </li>
-                                        
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="signup.html">Register Here</a>
-                                        </li>
-                                        <li class="nav-item dropdown">
-                                            <a class="nav-link " href="login/None/0.html">Login</a>
-                                        </li>
-                                        
-                                    </ul>
-                                </div>
-                            </nav>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
+        <?php
+include 'header.php';
+        ?>
     </div>
     
 
@@ -166,6 +43,9 @@
     table, th, td {
       border: 1px solid black;
     }
+
+
+    
 </style>
 <div class="about-page">
     <div class="container">
@@ -174,9 +54,9 @@
             <div class="col-xl-12 col-lg-12"  style='color:black;'>
             
             <p text-align: justify;>
-                <p>An income tax return is a form where taxpayers declare their taxable income, deductions, and tax payments. This procedure of filing income tax returns is referred to as income tax filing. While filing the actuals, the total amount that should go to the government as income tax is calculated. If you've paid more tax than needed for the financial year, you'll be refunded by the income tax department. Sometimes, you may also see that you have underpaid taxes for the year. In such cases, you must pay the remainder of the tax, and file your income tax returns.</p>
+                <p>An income tax return is a vital document used by taxpayers to report their taxable income, deductions, and tax payments. This essential process, known as income tax filing, ensures accurate calculation of the total income tax liability. In situations where individuals have overpaid taxes during the fiscal year, the income tax department provides refunds. Conversely, if taxpayers discover they have underpaid taxes, it is important to promptly settle the remaining tax balance and file their income tax returns accordingly. By following these procedures, individuals can effectively manage their tax obligations and ensure compliance with relevant tax regulations.</p>
 
-<p>Indian Income tax return form ranges from ITR 1 to ITR 7, used for different types of income. Some income tax return forms are longer than the others, and they may need additional disclosures such as balance sheet and a profit and loss statement information.</p>
+<p>The Indian Income tax return form encompasses a range from ITR 1 to ITR 7, serving different types of income. It's important to note that certain forms may be more extensive than others, requiring additional information such as balance sheets and profit and loss statements.</p>
 
 <p><strong>Income Tax Payers</strong></p>
 
@@ -196,9 +76,395 @@
 
 <p>&nbsp;</p>
 
-<p><em>Tax Slabs applicable to the individuals (below the age of 60 years) for the financial year 2018-19</em></p>
+<!-- <p><em>Tax Slabs applicable to the individuals (below the age of 60 years) for the financial year 2018-19</em></p> -->
 
-<table border="1" cellpadding="1" cellspacing="1" style="width:800px;overflow-x:auto;">
+
+
+
+<div class="sec-title">
+
+
+            <div id="tax-slave">
+
+
+
+                <!-- <h2 class="title pb-22">
+                       ITR Filing                    </h2> -->
+                <table dir="ltr" style="border-collapse: collapse; width: 100%; border-width: 1px; border-spacing: 0px; border-style: solid;" border="1" cellspacing="0" cellpadding="0">
+                    <colgroup>
+                        <col style="width: 18.8098%;" width="592">
+                        <col style="width: 18.7035%;" width="372">
+                        <col style="width: 20.1913%;" width="435">
+                        <col style="width: 20.086%;" width="367">
+                        <col style="width: 22.2094%;">
+                    </colgroup>
+                    <tbody>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5" data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
+                                        tax slab
+                                        rates for FY 2022-23 i.e. AY 2023-24</strong></span></td>
+                        </tr>
+                        <tr style="background-color: rgb(6, 57, 88);">
+                            <td style="border-width: 1px; padding: 5px;" rowspan="3" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Tax
+                                            Slab</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="3" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old
+                                        Tax Regime</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
+                                <span style="color: rgb(255, 255, 255);"><strong>New Tax
+                                        Regime</strong></span>
+                            </td>
+                        </tr>
+                        <tr style="background-color: rgb(53, 152, 219);">
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &lt; 60 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                        &amp;
+                                        HUF &gt; 80 years</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2"><span style="color: rgb(255, 255, 255);"><strong>Resident
+                                        Individuals &amp; HUF</strong></span></td>
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
+                            </td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
+                                3,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
+                                5,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
+                                6,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
+                                7,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
+                                9,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
+                                10,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
+                                12,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
+                                12,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                25%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" colspan="5">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; text-align: center;" colspan="5" data-sheets-value="{"><span style="font-size: 14pt; color: rgb(6, 57, 88);"><strong>Income
+                                        tax slab
+                                        rates for FY 2023-24 i.e. AY 2024-25</strong></span></td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="3" data-sheets-value="{">
+                                <div><strong><span style="color: rgb(255, 255, 255);">Tax
+                                            Slab</span></strong></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(6, 57, 88);" colspan="3" data-sheets-value="{"><span style="color: rgb(255, 255, 255);"><strong>Old Tax
+                                        Regime</strong></span></td>
+                            <td style="border-width: 1px; padding: 5px; text-align: center; background-color: rgb(186, 55, 42);">
+                                <span style="color: rgb(255, 255, 255);"><strong>New Tax
+                                        Regime</strong></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
+                                            &amp; HUF &lt; 60 years</span></strong></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{">
+                                <div><span style="color: rgb(255, 255, 255);"><strong>Resident Individuals
+                                            &amp; HUF &gt; 60 to &lt; 80 years</strong></span></div>
+                            </td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2" data-sheets-value="{"><strong><span style="color: rgb(255, 255, 255);">Resident Individuals
+                                        &amp; HUF
+                                        &gt; 80 years</span></strong></td>
+                            <td style="border-width: 1px; padding: 5px; background-color: rgb(6, 57, 88);" rowspan="2">
+                                <strong><span style="color: rgb(255, 255, 255);">Resident
+                                        Individuals &amp; HUF</span></strong>
+                            </td>
+                        </tr>
+                        <tr></tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">0 to 2,50,000
+                            </td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">2,50,000 to
+                                3,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">NIL</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">3,00,000 to
+                                5,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                0%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">5,00,000 to
+                                6,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                5%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">6,00,000 to
+                                7,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">7,50,000 to
+                                9,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                10%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">9,00,000 to
+                                10,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">10,00,000 to
+                                12,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                15%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,00,000 to
+                                12,50,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">12,50,000 to
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                20%</td>
+                        </tr>
+                        <tr>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{">Greater than
+                                15,00,000</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                            <td style="border-width: 1px; padding: 5px;" data-sheets-value="{" data-sheets-numberformat="{">
+                                30%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <table border="1" cellpadding="1" cellspacing="1" style="width:800px;overflow-x:auto;">
 	<tbody>
 		<tr>
 			<td style="text-align:center"><strong>Income Range</strong></td>
@@ -226,8 +492,8 @@
 			<td>Rs 1,12,500+ 30% of income above Rs 10 lakhs</td>
 		</tr>
 	</tbody>
-</table>
-
+</table> -->
+<!-- 
 <p><br>
 <em>Tax Slabs applicable to the Resident Senior citizens (60 years and above but below 80 years of age)for the financial year 2018-19</em></p>
 
@@ -283,11 +549,11 @@
 	</tbody>
 </table>
 
-<p><em><strong>Note :</strong> An additional 4% Health &amp; education cess will be applicable on the tax amount calculated as above.</em></p>
+<p><em><strong>Note :</strong> An additional 4% Health &amp; education cess will be applicable on the tax amount calculated as above.</em></p> -->
 
 <p>&nbsp;</p>
 
-<p><strong>ITR-1:-</strong>&nbsp;Income tax ITR-1 form must be filed by taxpayers who receive salary and have income from a house property.</p>
+<p><strong>ITR-1:-</strong>&nbsp;Taxpayers with salary and house property income must file the ITR-1 form for income tax</p>
 
 <p><strong>ITR-2:-</strong>&nbsp;Income tax ITR-2 form can be used for filing income tax return of individuals and HUFs who have DIN or income earned from a business entity.</p>
 
@@ -368,19 +634,20 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
-                                                <h3>Gold</h3>
-                                                <h4>Rs.499/-<br/></h4>
+                                                <h3>75% Discount</h3>
+                                                <h4>Rs.249/-<br/></h4>
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
-                                                    <li>Income tax return filing for an individual with a salary income of less than Rs.5 lakhs.</li>
+                                                    <li>Income tax return filing for an individual with a salary income of less than Rs.10 lakhs.</li>
+                                                    <li> Condition : No Refund and No Cancellation</li>
                                                 </ul>
                                                 <a href="basic-info-itr/1/index.php">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
                                      
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Diamond</h3>
@@ -408,7 +675,7 @@
                                                 <a href="basic-info-itr/3/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -421,19 +688,20 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
-                                                <h3>Gold</h3>
-                                                <h4>Rs.3999/-<br/></h4>
+                                                <h3>70% Discount</h3>
+                                                <h4>Rs.449/-<br/></h4>
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
-                                                    <li>Income tax return filing for persons having DIN or owing private limited company shares.</li>
+                                                    <li> ITR-2 form for individual and HUF tax filing with DIN or business income upto 10 Lakh</li>
+                                                    <li> Codition : No Refund and No Cancellation </li>
                                                 </ul>
                                                 <a href="basic-info-itr/4/index.php">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
                                      
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Diamond</h3>
@@ -461,7 +729,7 @@
                                                 <a href="basic-info-itr/6/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -471,7 +739,7 @@
                                <span class="city"  id="ITR-3" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Gold</h3>
@@ -514,7 +782,7 @@
                                                 <a href="basic-info-itr/9/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -527,19 +795,19 @@
                                     <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
-                                                <h3>Gold</h3>
-                                                <h4>Rs.7999/-<br/></h4>
+                                                <h3>72% Discount</h3>
+                                                <h4>Rs.549/-<br/></h4>
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
-                                                    <li><p>Income tax return filing for a taxpayer with a taxable income of less than Rs.10 lakhs.</p></li>
+                                                    <li><p>File ITR-4 for Presumptive Taxation Scheme if turnover/income meets criteria.</p></li>
                                                 </ul>
                                                 <a href="basic-info-itr/10/index.php">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
                                      
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Diamond</h3>
@@ -567,7 +835,7 @@
                                                 <a href="basic-info-itr/12/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -577,7 +845,7 @@
                                <span class="city"  id="ITR-5" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Gold</h3>
@@ -620,7 +888,7 @@
                                                 <a href="basic-info-itr/15/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -630,7 +898,7 @@
                                <span class="city"  id="ITR-6" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Gold</h3>
@@ -673,7 +941,7 @@
                                                 <a href="basic-info-itr/18/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -683,7 +951,7 @@
                                <span class="city"  id="ITR-7" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <!-- <div class="col-xl-4 col-lg-4 col-md-6 " >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>Gold</h3>
@@ -726,7 +994,7 @@
                                                 <a href="basic-info-itr/21/index.php">Buy Now</a>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                      
                                 </div>
                                 </span>
@@ -750,7 +1018,7 @@ function openCity(cityName) {
 }
 </script>
 
-    <div class="footer">
+    <!-- <div class="footer">
         <div class="footer-top">
             <div class="container">
                 <div class="row">
@@ -854,9 +1122,9 @@ function openCity(cityName) {
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!--Start of Tawk.to Script-->
-    <script type="text/javascript">
+    <!-- <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
         (function () {
             var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
@@ -866,7 +1134,11 @@ function openCity(cityName) {
             s1.setAttribute('crossorigin', '*');
             s0.parentNode.insertBefore(s1, s0);
         })();
-    </script>
+    </script> -->
+
+    <?php
+include 'footer.php';
+?>
     <script src="../static/mainstatic/js/jquery-3.3.1.min.js"></script>
     <script src="../static/mainstatic/js/jquery-migrate-3.0.1.js"></script>
     <script src="../static/mainstatic/js/bootstrap.min.js"></script>

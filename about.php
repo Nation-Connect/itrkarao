@@ -93,6 +93,4 @@ include 'footer.php';
     </script>
 </body>
 
-
-<!-- Mirrored from www.indiaonlineca.com/ca/abouts by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Jun 2023 13:21:55 GMT -->
 </html>
