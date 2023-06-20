@@ -133,7 +133,7 @@
             </div>
 
             <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 md-mb-30 ">
+                <div class="col-12 col-md-4 col-sm-12 mb-5">
                     <div class="pricing-table white-bg" id="itr1-section">
                         <div class="pricing-table-header">
                             <h3 class="table-title">ITR-1</h3>
@@ -164,7 +164,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 md-mb-30 ">
+                <div class="col-12 col-md-4 col-sm-12 mb-5">
                     <div class="pricing-table white-bg" id="itr2-section">
                         <div class="pricing-table-header">
                             <h3 class="table-title">ITR-2</h3>
@@ -194,7 +194,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 md-mb-10 ">
+                <div class="col-12 col-md-4 col-sm-12 mb-5">
                     <div class="pricing-table white-bg" id="itr3-section">
                         <div class="pricing-table-header">
                             <h3 class="table-title">ITR-4</h3>
@@ -225,37 +225,6 @@
             </div>
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     </div>
     </div>
     </div>
@@ -264,44 +233,44 @@
     <div class="important-points" style="background-color: #f8f8f8;">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-xl-8 col-lg-8">
+            <div class="col-xl-8 col-lg-8 pt-5">
                 <div class="section-title">
                     <h2 class="add-space">Important Points</h2>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-xl-4 col-lg-4 col-md-6">
+        <div class="row mb-5 pb-5">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Link Aadhaar with PAN at just ₹49, Act Now!</strong></p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Get any type of ITR Related information @ ₹49, Act Now!</strong></p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Charges For Financial Statement ₹249 extra</strong></p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Charges For CA Assertion ₹749 extra</strong></p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Charges For Hard copy with Courier charges ₹149 extra</strong></p>
                 </div>
             </div>
-            <div class="col-xl-4 col-lg-4 col-md-6">
+            <div class="col-12 col-md-4 col-sm-12">
                 <div class="single-point">
                     <i class="fas fa-check"></i>
                     <p><strong>Consultancy Charge ₹49 Only ( For 10 minutes )</strong></p>
@@ -349,7 +318,7 @@
             </div>
             <div class="row">
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Expert ITR Filing Assistance with ITRKaro: </h4>
@@ -360,7 +329,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Personalized Solutions</h4>
@@ -372,7 +341,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Timely Service</h4>
@@ -384,7 +353,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Secure Data Handling</h4>
@@ -396,7 +365,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Transparent Pricing</h4>
@@ -408,7 +377,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
                             <h4>Compliance and Accuracy</h4>
