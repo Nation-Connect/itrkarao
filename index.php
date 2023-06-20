@@ -230,7 +230,7 @@
     </div>
     </div>
 
-    <div class="important-points" style="background-color: #f8f8f8;">
+    <div class="important-points feature">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-8 pt-5">
