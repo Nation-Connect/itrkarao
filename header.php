@@ -16,7 +16,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-8 col-lg-9 d-xl-flex d-lg-flex d-block align-items-center">
+            <div class="col-xl-8 col-lg-9 d-xl-flex d-lg-flex d-block align-items-end justify-content-end">
                 <div class="mainmenu">
                     <nav class="navbar navbar-expand-lg">
                         <div class="navbar-header">
@@ -50,6 +50,9 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link " href="ca/partnar.html">Be a Partner</a>
                                 </li>
+                                <li class="nav-item dropdown">
+                                            <a class="nav-link " href="index.php">Blog</a>
+                                        </li>
 
 
                             </ul>
