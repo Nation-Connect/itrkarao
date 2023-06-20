@@ -37,7 +37,7 @@
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                         <ul class="navbar-nav">
                                             <li class="nav-item dropdown">
-                                                <a class="dropdown-item" href="ca/itr.html">Income Tax
+                                                <a class="dropdown-item" href="itr.php">Income Tax
                                                     Filling</a>
 
                                             </li>
@@ -45,10 +45,10 @@
                                     </div>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="ca/contact.html">Contact</a>
+                                    <a class="nav-link " href="contact.php">Contact</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="ca/partnar.html">Be a Partner</a>
+                                    <a class="nav-link " href="partnar.php">Be a Partner</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                             <a class="nav-link " href="index.php">Blog</a>
