@@ -631,7 +631,7 @@ include 'header.php';
                                <span class="city"  id="ITR-1" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <div class="col-12 col-md-4 col-sm-12" >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>75% Discount</h3>
@@ -685,7 +685,7 @@ include 'header.php';
                                <span class="city"  id="ITR-2" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <div class="col-12 col-md-4 col-sm-12" >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>70% Discount</h3>
@@ -792,7 +792,7 @@ include 'header.php';
                                <span class="city"  id="ITR-4" style="display :none;">
                                 <div class="row">
                                     
-                                    <div class="col-xl-4 col-lg-4 col-md-6 " >
+                                    <div class="col-12 col-md-4 col-sm-12" >
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>72% Discount</h3>
