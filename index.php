@@ -96,21 +96,21 @@
                     <div class="testimonial-slider">
 
                         <div class="single-payment">
-                            <img src="media/normalCA/add_banner/img/itrfilling1.png" style="height:400px;width:400px;"
+                            <img src="static/mainstatic/img/itrfilling1.png" style="height:400px;width:400px;"
                                 alt="">
                         </div>
 
                         <div class="single-payment">
-                            <img src="media/normalCA/add_banner/img/itrfilling2.png" style="height:400px;width:400px;"
+                            <img src="static/mainstatic/img/itrfilling2.png" style="height:400px;width:400px;"
                                 alt="">
                         </div>
 
                         <div class="single-payment">
-                            <img src="media/normalCA/add_banner/img/Itrfilling3.png" style="height:400px;width:400px;"
+                            <img src="static/mainstatic/img/itrfilling3.png" style="height:400px;width:400px;"
                                 alt="">
                         </div>
                         <div class="single-payment">
-                            <img src="media/normalCA/add_banner/img/itrfilling4.png" style="height:400px;width:400px;"
+                            <img src="static/mainstatic/img/itrfilling4.png" style="height:400px;width:400px;"
                                 alt="">
                         </div>
 
@@ -159,7 +159,7 @@
                         </div>
                         <div class="btn-part"
                             style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
-                            <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
+                            <a class="readon price price2" href="https://wa.me/8595393646">Start Now</a>
                         </div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                         </div>
                         <div class="btn-part "
                             style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
-                            <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
+                            <a class="readon price price2" href="https://wa.me/8595393646">Start Now</a>
                         </div>
                     </div>
                 </div>
@@ -218,7 +218,7 @@
                         </div>
                         <div class="btn-part "
                             style="position: absolute;bottom: 0;left: 0;margin-bottom: 10px;left: 25%;">
-                            <a class="readon price price2" href="https://wa.me/8130813280">Start Now</a>
+                            <a class="readon price price2" href="https://wa.me/8595393646">Start Now</a>
                         </div>
                     </div>
                 </div>
