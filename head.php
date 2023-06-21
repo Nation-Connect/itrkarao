@@ -3,6 +3,7 @@
     <meta name="keywords"
         content="CA services, CA services in India, entrepreneurs, business growth, affordable CA services">
     <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days" />
 
     <!-- Open Graph tags -->
     <meta property="og:type" content="website">
