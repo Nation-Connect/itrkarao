@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 d-xl-flex d-lg-flex align-items-center">
                     <div class="copyright">
-                    <p>Copyright ©2023 Itrsahayata all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/" style="color: Red;"> Nation Connect</a> </p>
+                    <p>Copyright ©2023 ITRKaro all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/" style="color: Red;"> Nation Connect</a> </p>
 
                     </div>
                 </div>
