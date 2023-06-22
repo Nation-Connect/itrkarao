@@ -15,9 +15,7 @@
     ?>
 
 <body>
-    <div id="tawkchat-status-text-container" class="theme-background-color theme-text-color"
-        style="background-color:blue"><span id="maximizeChat" class="icon-mail appear" title="Maximize"></span><span
-            id="minimizeChatMinifiedBtn" class="icon-close hide" title="Minimize"></span></div>
+    <div id="tawkchat-status-text-container" class="theme-background-color theme-text-color" style="background-color:blue"><span id="maximizeChat" class="icon-mail appear" title="Maximize"></span><span id="minimizeChatMinifiedBtn" class="icon-close hide" title="Minimize"></span></div>
     <div class="header">
         <div class="header-top" style="padding: 5px;">
             <div class="container">
@@ -114,28 +112,33 @@
                 <div class="row">
                     <div class="col-xl-6 col-lg-6">
                         <div class="part-form">
-                            <form method="POST" action="https://www.itrkarao.in/ca/contact">
-                                
-
+                            <form action="#" id="contact-form">
+                                <input type="hidden" name="send-contact-mail" />
                                 <div class="row">
                                     <div class="col-xl-12 col-lg-12">
-                                        <input type="text" Required=1 name="name" placeholder="Name">
+                                        <input type="text" Required=1 name="name" placeholder="Name" required>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-                                        <input type="number" Required=1 max-length="10" name="phone"
-                                            placeholder="Phone Number">
+                                        <input type="number" Required=1 max-length="10" name="phone" placeholder="Phone Number" required>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-                                        <input type="email" Required=1 name="email" placeholder="Email Address">
+                                        <input type="email" Required=1 name="email" placeholder="Email Address" required>
                                     </div>
                                     <div class="col-xl-12 col-lg-12">
-                                        <input type="text" Required=1 name="subjects" placeholder="Your Subject">
+                                        <input type="text" Required=1 name="subject" placeholder="Your Subject" required>
                                     </div>
                                     <div class="col-xl-12 col-lg-12">
-                                        <textarea name="message" Required=1 placeholder="Your Message"></textarea>
+                                        <textarea name="message" Required=1 placeholder="Your Message" required></textarea>
                                     </div>
                                     <div class="col-xl-6 col-lg-6">
-                                        <button type="submit">Send Message Now </button>
+                                        <button type="submit" class="submit-btn">Send Message Now </button>
+                                    </div>
+                                    <div id="form-message-success" style="display:none;font-size:20px;margin-top:10px;"
+                                        class="mb-4 text-center text-success">
+                                        Your message was sent, Thank you!
+                                    </div>
+                                    <div id="form-message-danger" style="display:none;font-size:20px;margin-top:10px;" class="mb-4 text-center text-danger">
+                                        Something went wrong!, please try again.
                                     </div>
                                 </div>
                             </form>
@@ -165,10 +168,33 @@
     <script src="../static/mainstatic/js/main.js"></script>
     <script src="../static/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="../static/plugins/summernote/summernote-bs4.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
     <script>
-    $(function() {
-        $('.textarea').summernote()
-    })
+        $(function() {
+            $('.textarea').summernote()
+        })
+    </script>
+    <script>
+        $("#contact-form").submit(function(event) {
+            event.preventDefault();
+            $(".submit-btn").html("<i class=`fa fa-circle-notch fa-spin`></i> Please wait...");
+            $(".submit-btn").prop('disabled', true);
+            $('#form-message-success').hide();
+            $('#form-message-danger').hide();
+            var formValues = $(this).serialize();
+            $.post("mail-service.php", formValues, function(data) {
+                $(".submit-btn").html("Send Message Now");
+                $(".submit-btn").prop('disabled', false);
+                if (data) {
+                    $('#form-message-success').show().delay(5000).fadeOut(500);
+                    $("#contact-form")[0].reset();
+                    closePopup();
+                } else {
+                    $('#form-message-danger').show().delay(5000).fadeOut(500);
+                }
+            });
+        });
     </script>
 </body>
+
 </html>

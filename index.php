@@ -106,7 +106,7 @@
                         </div>
 
                         <div class="single-payment">
-                            <img src="static/mainstatic/img/itrfilling3.png" style="height:400px;width:400px;"
+                            <img src="static/mainstatic/img/itrfilling-3.png" style="height:400px;width:400px;"
                                 alt="">
                         </div>
                         <div class="single-payment">

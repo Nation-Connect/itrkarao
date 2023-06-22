@@ -9,8 +9,7 @@
                         </div>
                     </div>
                     <div class="d-xl-none d-lg-none d-block col-5">
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-                            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <i class="fas fa-bars"></i>
                         </button>
                     </div>
@@ -30,8 +29,7 @@
                                     <a class="nav-link " href="about.php">About</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="#" id="navbarDropdown" role="button"
-                                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Services
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -51,8 +49,8 @@
                                     <a class="nav-link " href="partnar.php">Be a Partner</a>
                                 </li>
                                 <li class="nav-item dropdown">
-                                            <a class="nav-link " href="index.php">Blog</a>
-                                        </li>
+                                    <a class="nav-link " href="index.php">Blog</a>
+                                </li>
 
 
                             </ul>
