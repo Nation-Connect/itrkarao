@@ -126,7 +126,7 @@
                 <div class="col-xl-8 col-lg-8">
                     <div class="section-title">
                         <h2>Services Offered</h2>
-                        <ul>Expert ITR Filing Services - ITRKaro: Simplify your tax compliance with our professional ITR
+                        <ul>Expert ITR Filing Services - ITRkarao: Simplify your tax compliance with our professional ITR
                             filing solutions.</ul>
                     </div>
                 </div>
@@ -321,7 +321,7 @@
                 <div class="col-12 col-md-4 col-sm-12">
                     <div class="single-feature">
                         <div class="part-text mt-3">
-                            <h4>Expert ITR Filing Assistance with ITRKaro: </h4>
+                            <h4>Expert ITR Filing Assistance with ITRkarao: </h4>
                             <div class="col">
                                 <p>Your Path to Tax Compliance Excellence .</p>
                             </div>

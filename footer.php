@@ -5,7 +5,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="about-area">
                         <img src="static/mainstatic/img/logofoot.png" alt="">
-                        <p>ITRKaro - Expert ITR Filing Services for Your Financial Needs,
+                        <p>ITRkarao - Expert ITR Filing Services for Your Financial Needs,
                             we are dedicated Team of Professionals For all ITR Filling needs. </p>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 d-xl-flex d-lg-flex align-items-center">
                     <div class="copyright">
-                    <p>Copyright ©2023 ITRKaro all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/" style="color: Red;"> Nation Connect</a> </p>
+                    <p>Copyright ©2023 ITRkarao all rights reserved. | Designed & Developed by<a href="https://nationconnect.in/" style="color: Red;"> Nation Connect</a> </p>
 
                     </div>
                 </div>
