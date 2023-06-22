@@ -25,7 +25,7 @@
         $mail->Host       = 'mail.itrkarao.in';                    // Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   // Enable SMTP authentication
         $mail->Username   = 'no-reply@itrkarao.in';                     // SMTP username
-        $mail->Password   = '*i@XQ(8f{MWF';                               // SMTP password
+        $mail->Password   = '*Itrkarao@123';                               // SMTP password
         $mail->SMTPSecure = 'tls';         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` also accepted
         $mail->Port       = 587;                                    // TCP port to connect to//
     

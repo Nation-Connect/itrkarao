@@ -143,7 +143,7 @@
                             <div class="pricing-table-bags">
 
                                 <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    199.00*</span>
+                                    249.00*</span>
                             </div>
                         </div>
                         <div class="pricing-table-body">
@@ -174,7 +174,7 @@
                             <div class="pricing-table-bags">
 
                                 <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    399.00*</span>
+                                    449.00*</span>
                             </div>
                         </div>
                         <div class="pricing-table-body">
@@ -204,7 +204,7 @@
                             <div class="pricing-table-bags">
 
                                 <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    499.00*</span>
+                                    549.00*</span>
                             </div>
                         </div>
                         <div class="pricing-table-body">
