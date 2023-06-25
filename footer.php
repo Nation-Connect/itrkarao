@@ -29,11 +29,11 @@
                 </div>
              <div class="col-xl-4 col-lg-4 col-md-6">
                     <div class="secure-area">
-                        <h3> Our Address: Sec 45, Noida UP</h3>
+                        <h3> Contact Us</h3>
                         <ul class="sub-menu" style="color: white;">
-    <li><a href="tel:8130813280" style="color: white;"><i class="fa fa-phone"></i> Call</a></li>
-    <li><a href="https://wa.me/8130813280" style="color: white;"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
-    <li><a href="mailto:info@itrsahayata.in" style="color: white;"><i class="fa fa-envelope"></i> Email</a></li>
+    <li><a href="tel:8595393646" style="color: white;"><i class="fa fa-phone"></i> Call</a></li>
+    <li><a href="https://wa.me/8595393646" style="color: white;"><i class="fa fa-whatsapp"></i> WhatsApp</a></li>
+    <li><a href="mailto:info@itrkarao.in" style="color: white;"><i class="fa fa-envelope"></i> Email</a></li>
     <li><a href="https://www.facebook.com/yourpage" style="color: white;"><i class="fa fa-facebook"></i> Facebook</a></li>
     <li><a href="https://www.instagram.com/yourpage" style="color: white;"><i class="fa fa-instagram"></i> Instagram</a></li>
 </ul>

@@ -38,7 +38,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-10 col-lg-10">
                     <div class="banner-content">
-                        <h1>         Get Your ITR filed with ITRKARAO...Expert Assistance and Simplified Procedures</h1>
+                    <h1>Get Your ITR filed with <span style="color: yellow;">ITRKARAO...</span> Expert Assistance and Simplified Procedures</h1>
                         <div class="content-button">
                         </div>
                     </div>
@@ -91,7 +91,7 @@
             <div class="row">
                 <div class="col-xl-12 col-lg-12">
                     <div class="section-title">
-                        <h2>Latest Offers</h2>
+                        <h2></h2>
                     </div>
                     <div class="testimonial-slider">
 
@@ -230,76 +230,109 @@
     </div>
     </div>
 
-    <div class="important-points feature">
-    <div class="container">
+ 
+
+
+    <div class="feature">
+        <div class="container">
         <div class="row justify-content-center">
-            <div class="col-xl-8 col-lg-8 pt-5">
-                <div class="section-title">
-                    <h2 class="add-space">Important Points</h2>
+                <div class="col-xl-8 col-lg-8">
+                    <div class="section-title">
+                        <h2>Important Point</h2>
+                        
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="row mb-5 pb-5">
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Link Aadhaar with PAN at just ₹49, Act Now!</strong></p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Get any type of ITR Related information @ ₹49, Act Now!</strong></p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Charges For Financial Statement ₹249 extra</strong></p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Charges For CA Assertion ₹749 extra</strong></p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Charges For Hard copy with Courier charges ₹149 extra</strong></p>
-                </div>
-            </div>
-            <div class="col-12 col-md-4 col-sm-12">
-                <div class="single-point">
-                    <i class="fas fa-check"></i>
-                    <p><strong>Consultancy Charge ₹49 Only ( For 10 minutes )</strong></p>
-                </div>
+        <div class="row">
+
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Expert ITR Filing Assistance with ITRkarao: </h4> -->
+            <div class="col">
+                <p><Strong>Link Aadhaar with PAN at just ₹49, Act Now!</Strong></p>
             </div>
         </div>
     </div>
 </div>
 
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Personalized Solutions</h4> -->
+            <div class="col">
+                <p> <Strong> Get any type of ITR Related information @ ₹49, Act Now! </Strong></p>
+            </div>
+        </div>
+    </div>
+</div>
 
-<div class="booking">
-    <div class="container">
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Timely Service</h4> -->
+            <div class="col">
+                <p> <Strong> Charges For Financial Statement ₹249 extra </Strong></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Secure Data Handling</h4> -->
+            <div class="col">
+                <p> <Strong> Charges For CA Attestation ₹749 extra </Strong></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Transparent Pricing</h4> -->
+            <div class="col">
+            <p> <Strong> Charges For Hard copy with Courier charges ₹149 extra </Strong></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-12 col-md-4 col-sm-12">
+    <div class="single-feature">
+        <div class="part-text mt-3">
+            <!-- <h4>Compliance and Accuracy</h4> -->
+            <div class="col">
+            <p> <Strong> Consultancy Charge ₹49 Only ( For 10 minutes ) </Strong></p>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+
+</div>
+
+<div class="container">
         <div class="row justify-content-center">
             <div class="col-xl-8 col-lg-8">
                 <div class="section-title">
-                <a href="https://wa.me/whatsappphonenumber" target="_blank" class="btn btn-primary">Book Now</a>
+                <a href="https://wa.me/8595393646" target="_blank" class="btn btn-primary">Book Now</a>
                 </div>
             
                 </div>
             </div>
         </div>
     </div>
+
+
+
 </div>
-
-
-
-
-
-
+</div>
+</div>
 
 
 

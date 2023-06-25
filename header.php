@@ -45,11 +45,11 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link " href="contact.php">Contact</a>
                                 </li>
-                                <li class="nav-item dropdown">
+                                <!-- <li class="nav-item dropdown">
                                     <a class="nav-link " href="partnar.php">Be a Partner</a>
-                                </li>
+                                </li> -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="index.php">Blog</a>
+                                    <a class="nav-link " href="tel:8130813280">Call Now</a>
                                 </li>
 
 
