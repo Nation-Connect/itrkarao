@@ -246,66 +246,66 @@
         <div class="row">
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Expert ITR Filing Assistance with ITRkarao: </h4> -->
             <div class="col">
-                <p><Strong>Link Aadhaar with PAN at just ₹49, Act Now!</Strong></p>
+                <p style="color: white;"><Strong>Link Aadhaar with PAN at just ₹49, Act Now!</Strong></p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Personalized Solutions</h4> -->
             <div class="col">
-                <p> <Strong> Get any type of ITR Related information @ ₹49, Act Now! </Strong></p>
+                <p style="color: white;"> <Strong> Get any type of ITR Related information @ ₹49, Act Now! </Strong></p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Timely Service</h4> -->
             <div class="col">
-                <p> <Strong> Charges For Financial Statement ₹249 extra </Strong></p>
+                <p style="color: white;"> <Strong> Charges For Financial Statement ₹249 extra </Strong></p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Secure Data Handling</h4> -->
             <div class="col">
-                <p> <Strong> Charges For CA Attestation ₹749 extra </Strong></p>
+                <p style="color: white;"> <Strong> Charges For CA Attestation ₹749 extra </Strong></p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Transparent Pricing</h4> -->
             <div class="col">
-            <p> <Strong> Charges For Hard copy with Courier charges ₹149 extra </Strong></p>
+            <p style="color: white;"> <Strong> Charges For Hard copy with Courier charges ₹149 extra </Strong></p>
             </div>
         </div>
     </div>
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature">
+    <div class="single-feature" style="background-color: #07384A;">
         <div class="part-text mt-3">
             <!-- <h4>Compliance and Accuracy</h4> -->
             <div class="col">
-            <p> <Strong> Consultancy Charge ₹49 Only ( For 10 minutes ) </Strong></p>
+            <p style="color: white;"> <Strong> Consultancy Charge ₹49 Only ( For 10 minutes ) </Strong></p>
             </div>
         </div>
     </div>
