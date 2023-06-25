@@ -641,7 +641,7 @@ include 'header.php';
                                                     <li>Income tax return filing for an individual with a salary income of less than Rs.10 lakhs.</li>
                                                     <li> Condition : No Refund and No Cancellation</li>
                                                 </ul>
-                                                <a href="basic-info-itr/1/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -656,7 +656,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for an individual with salary income of less than Rs.10 lakhs</li>
                                                 </ul>
-                                                <a href="basic-info-itr/2/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -671,7 +671,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for an individual with salary income of more than Rs.10 lakhs.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/3/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -695,7 +695,7 @@ include 'header.php';
                                                     <li> ITR-2 form for individual and HUF tax filing with DIN or business income upto 10 Lakh</li>
                                                     <li> Codition : No Refund and No Cancellation </li>
                                                 </ul>
-                                                <a href="basic-info-itr/4/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -710,7 +710,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for persons having capital gains.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/5/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -725,7 +725,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for persons having foreign assets or foreign income.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/6/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -748,7 +748,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for a taxpayer with a taxable income of less than Rs.25 lakhs.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/7/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -763,7 +763,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for a taxpayer with a taxable income of less than Rs.50 lakhs.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/8/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -778,7 +778,7 @@ include 'header.php';
                                                 <ul>
                                                     <li>Income tax return filing for a taxpayer with a taxable income of Rs.20 lakhs to Rs.100 lakhs.</li>
                                                 </ul>
-                                                <a href="basic-info-itr/9/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -816,7 +816,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of less than Rs.25 lakhs.</p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/11/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -831,7 +831,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.25 lakhs.</p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/12/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -854,7 +854,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of less than Rs.10 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/13/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -869,7 +869,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.10 lakhs.</p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/14/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -884,7 +884,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.25 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/15/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -907,7 +907,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of less than Rs.10 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/16/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -922,7 +922,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.10 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/17/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -937,7 +937,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.25 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/18/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
@@ -960,7 +960,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of less than Rs.10 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/19/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -975,7 +975,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.10 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/20/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
@@ -990,7 +990,7 @@ include 'header.php';
                                                 <ul>
                                                     <li><p>Income tax return filing for a taxpayer with a taxable income of more than Rs.25 lakhs.<br></p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/21/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div> -->
