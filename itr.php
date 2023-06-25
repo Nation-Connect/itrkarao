@@ -633,7 +633,8 @@ include 'header.php';
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>75% Discount</h3>
-                                                <h4>Rs.249/-<br/></h4>
+                                                <h4><del>Rs.999/-</del><br/>Rs.249/-</h4>
+
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
@@ -687,7 +688,7 @@ include 'header.php';
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>70% Discount</h3>
-                                                <h4>Rs.449/-<br/></h4>
+                                                <h4> <del>Rs.1499/-</del><br/> Rs.449/-<br/></h4>
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
@@ -794,13 +795,13 @@ include 'header.php';
                                         <div class="single-price">
                                             <div class="part-top">
                                                 <h3>72% Discount</h3>
-                                                <h4>Rs.549/-<br/></h4>
+                                                <h4><del>Rs.1999/-</del>Rs.549/-<br/></h4>
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
                                                     <li><p>File ITR-4 for Presumptive Taxation Scheme if turnover/income meets criteria.</p></li>
                                                 </ul>
-                                                <a href="basic-info-itr/10/index.php">Buy Now</a>
+                                                <a href="https://wa.me/8595393646">Buy Now</a>
                                             </div>
                                         </div>
                                     </div>
