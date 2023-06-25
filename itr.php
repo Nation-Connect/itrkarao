@@ -448,9 +448,7 @@ include 'header.php';
 
 
 
-    </div>
-
-    </div>
+    
 
 
 
