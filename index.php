@@ -246,7 +246,7 @@
         <div class="row">
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Expert ITR Filing Assistance with ITRkarao: </h4> -->
             <div class="col">
@@ -257,7 +257,7 @@
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Personalized Solutions</h4> -->
             <div class="col">
@@ -268,7 +268,7 @@
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Timely Service</h4> -->
             <div class="col">
@@ -279,7 +279,7 @@
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Secure Data Handling</h4> -->
             <div class="col">
@@ -290,7 +290,7 @@
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Transparent Pricing</h4> -->
             <div class="col">
@@ -301,7 +301,7 @@
 </div>
 
 <div class="col-12 col-md-4 col-sm-12">
-    <div class="single-feature" style="background-color: #07384A;">
+    <div class="single-feature" style="background-color: #005A64;">
         <div class="part-text mt-3">
             <!-- <h4>Compliance and Accuracy</h4> -->
             <div class="col">
