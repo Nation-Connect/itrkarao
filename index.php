@@ -141,9 +141,16 @@
 
                         <div class="pricing-table-price">
                             <div class="pricing-table-bags">
+                            <div class="part-top">
+                                                <h3>75% Discount</h3>
+                                                <h4><del>Rs.999/-</del><br/>Rs.249/-</h4>
 
-                                <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    249.00*</span>
+                                            </div>
+                                
+                           
+
+                                <!-- <span class="table-price-text"><span class="pricing-currency">₹</span>
+                                    249.00*</span> -->
                             </div>
                         </div>
                         <div class="pricing-table-body">
@@ -172,9 +179,14 @@
 
                         <div class="pricing-table-price">
                             <div class="pricing-table-bags">
+                            <div class="part-top">
+                                                <h3>70% Discount</h3>
+                                                <h4><del>Rs.1499/-</del><br/>Rs.449/-</h4>
 
-                                <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    449.00*</span>
+                                            </div>
+
+                                <!-- <span class="table-price-text"><span class="pricing-currency">₹</span>
+                                    449.00*</span> -->
                             </div>
                         </div>
                         <div class="pricing-table-body">
@@ -202,9 +214,14 @@
 
                         <div class="pricing-table-price">
                             <div class="pricing-table-bags">
+                            <div class="part-top">
+                                                <h3>72% Discount</h3>
+                                                <h4><del>Rs.1999/-</del><br/>Rs.549/-</h4>
 
-                                <span class="table-price-text"><span class="pricing-currency">₹</span>
-                                    549.00*</span>
+                                            </div>
+
+                                <!-- <span class="table-price-text"><span class="pricing-currency">₹</span>
+                                    549.00*</span> -->
                             </div>
                         </div>
                         <div class="pricing-table-body">
