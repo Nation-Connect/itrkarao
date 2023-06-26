@@ -25,7 +25,7 @@
             <div class="container">
                 <div class="row justify-content-between">
                     
-                    <marquee behavior="scroll" style="color: blanchedalmond;" direction="left"><p><span style="font-family: Verdana, sans-serif; font-size: 15px; white-space: nowrap;">Welcome to India Online CA * Special Offer: Individual Salary ITR Starting @ Rs. 499/- Only *</span><br></p>
+                    <marquee behavior="scroll" style="color: blanchedalmond;" direction="left"><p><span style="font-family: Verdana, sans-serif; font-size: 15px; white-space: nowrap;">Welcome to ITRKARAO * HURRY UP! LAST DATE OF FILING ITR IS 31st JULY. DON'T MISS THE DATE: *</span><br></p>
                     </marquee>
                     
                 </div>

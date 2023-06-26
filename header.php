@@ -49,7 +49,7 @@
                                     <a class="nav-link " href="partnar.php">Be a Partner</a>
                                 </li> -->
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link " href="tel:8130813280">8130813280</a>
+                                    <a class="nav-link " href="tel:8595393646">8595393646</a>
                                 </li>
 
 

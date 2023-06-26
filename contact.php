@@ -83,12 +83,12 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-adress">
                             <div class="part-icon">
-                                <i class="fa fa-map" style="line-height: 2;"></i>
+                                <i class="fa fa-whatsapp" style="line-height: 2;"></i>
                             </div>
                             <div class="part-text">
-                                <h3>Office Address</h3>
+                                <h3>Whatsapp</h3>
                                 <ul>
-                                    <li>Sec 45, Noida UP</li>
+                                    <li>8595393646</li>
                                 </ul>
                             </div>
                         </div>
