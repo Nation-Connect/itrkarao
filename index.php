@@ -13,6 +13,9 @@
     ?>
 
 <body>
+<script src="//instant.page/5.2.0" type="module" integrity="sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z"></script>
+
+
     <div id="tawkchat-status-text-container" class="theme-background-color theme-text-color"
         style="background-color:blue"><span id="maximizeChat" class="icon-mail appear" title="Maximize"></span><span
             id="minimizeChatMinifiedBtn" class="icon-close hide" title="Minimize"></span></div>
