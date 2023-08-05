@@ -183,8 +183,8 @@
                         <div class="pricing-table-price">
                             <div class="pricing-table-bags">
                             <div class="part-top">
-                            <h3> </h3>
-                                                <h4> </h4>
+                            <h3> <br> </h3>
+                                                <h4> <br> </h4>
                                                 <!-- <h3>70% Discount</h3> -->
                                                 <!-- <h4><del>Rs.1499/-</del><br/>Rs.449/-</h4> -->
 
