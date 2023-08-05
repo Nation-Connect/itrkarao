@@ -687,8 +687,8 @@ include 'header.php';
                                     <div class="col-12 col-md-4 col-sm-12" >
                                         <div class="single-price">
                                             <div class="part-top">
-                                                <h3>70% Discount</h3>
-                                                <h4> <del>Rs.1499/-</del><br/> Rs.449/-<br/></h4>
+                                                <!-- <h3>70% Discount</h3> -->
+                                                <!-- <h4> <del>Rs.1499/-</del><br/> Rs.449/-<br/></h4> -->
                                             </div>
                                             <div class="part-bottom">
                                                 <ul>
