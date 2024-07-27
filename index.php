@@ -58,7 +58,7 @@
 
         <script>
         // Set the countdown date and time
-        var countdownDate = new Date('July 31, 2023 23:59:59').getTime();
+        var countdownDate = new Date('July 31, 2024 23:59:59').getTime();
 
         // Update the countdown every second
         var countdownTimer = setInterval(function() {
